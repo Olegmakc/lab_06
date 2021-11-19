@@ -1,1 +1,1 @@
-# lab_06
+# myownhost.zzz.com.ua	
